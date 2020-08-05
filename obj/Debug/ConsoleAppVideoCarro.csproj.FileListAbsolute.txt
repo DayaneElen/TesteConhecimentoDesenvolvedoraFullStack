@@ -1,0 +1,7 @@
+C:\Users\Dayane\source\repos\ConsoleAppVideoCarro\bin\Debug\ConsoleAppVideoCarro.exe.config
+C:\Users\Dayane\source\repos\ConsoleAppVideoCarro\bin\Debug\ConsoleAppVideoCarro.exe
+C:\Users\Dayane\source\repos\ConsoleAppVideoCarro\bin\Debug\ConsoleAppVideoCarro.pdb
+C:\Users\Dayane\source\repos\ConsoleAppVideoCarro\obj\Debug\ConsoleAppVideoCarro.csprojAssemblyReference.cache
+C:\Users\Dayane\source\repos\ConsoleAppVideoCarro\obj\Debug\ConsoleAppVideoCarro.csproj.CoreCompileInputs.cache
+C:\Users\Dayane\source\repos\ConsoleAppVideoCarro\obj\Debug\ConsoleAppVideoCarro.exe
+C:\Users\Dayane\source\repos\ConsoleAppVideoCarro\obj\Debug\ConsoleAppVideoCarro.pdb
